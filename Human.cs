@@ -9,6 +9,11 @@ namespace HelloGitWorld
     public class Human
     {
         public int Id { get; set; }
+        public DateTime Created { get; set; }
         public string? Name { get; set; }
+        public string? Address { get; set; }
+        public string? PhoneNumber { get; set; }
+        
+
     }
 }
