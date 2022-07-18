@@ -13,7 +13,9 @@ namespace HelloGitWorld
         public virtual string? Name { get; set; }
         public virtual string? Address { get; set; }
         public string? PhoneNumber { get; set; }
+	public string LastName { get; set; }
+
         
 
-    }
+    }	
 }
