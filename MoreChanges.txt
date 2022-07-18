@@ -1,0 +1,5 @@
+Victory's updated changes 
+Branching in git
+It is not advisable to work on the main/master branch
+You will be required to create a new branch outside the main branch by using the git checkout -b <branch name>command. 
+When you have finished adding and committing all your changes, you have to merge your new branch with your main/master with the git merge <branch name> command
