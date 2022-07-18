@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "oJgsHbDSYVuWa84rO7salHY4BdBB4YJzqNG/AYtT6FyvDUOKsD/IMW61RPsqXhN8Ww88CR1cP4k/qkbAakDpLQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\ADMIN\\Desktop\\Desktop\\cypherJorney\\Phase II\\gitHubTutorial2\\hello-git-world\\HelloGitWorld.csproj",
+=======
+  "dgSpecHash": "ngX/shVlRECPJBROW8BB/oKSFOvRBo3iBar8ELHP1SAO+mWVJYjP5lN8qkAczd/jD64z4njXQTqwCk0Ht+JCzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\General\\CCLSA\\hello-git-world\\HelloGitWorld.csproj",
+>>>>>>> 97609f3edfe752a6928260da6ddd6ae2a7d67fa8
   "expectedPackageFiles": [],
   "logs": []
 }

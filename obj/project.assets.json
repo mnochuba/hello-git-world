@@ -8,11 +8,16 @@
     "net6.0": []
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\ADMIN\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\hp\\.nuget\\packages\\": {}
+>>>>>>> 97609f3edfe752a6928260da6ddd6ae2a7d67fa8
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\Desktop\\cypherJorney\\Phase II\\gitHubTutorial2\\hello-git-world\\HelloGitWorld.csproj",
       "projectName": "HelloGitWorld",
       "projectPath": "C:\\Users\\ADMIN\\Desktop\\Desktop\\cypherJorney\\Phase II\\gitHubTutorial2\\hello-git-world\\HelloGitWorld.csproj",
@@ -21,6 +26,16 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+      "projectUniqueName": "C:\\Users\\hp\\Desktop\\General\\CCLSA\\hello-git-world\\HelloGitWorld.csproj",
+      "projectName": "HelloGitWorld",
+      "projectPath": "C:\\Users\\hp\\Desktop\\General\\CCLSA\\hello-git-world\\HelloGitWorld.csproj",
+      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hp\\Desktop\\General\\CCLSA\\hello-git-world\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 97609f3edfe752a6928260da6ddd6ae2a7d67fa8
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +75,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+>>>>>>> 97609f3edfe752a6928260da6ddd6ae2a7d67fa8
       }
     }
   }
