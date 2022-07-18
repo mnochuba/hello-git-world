@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Documents\\new repo\\hello-git-world\\HelloGitWorld.csproj": {}
+    "C:\\Users\\ADMIN\\Desktop\\Desktop\\cypherJorney\\Phase II\\gitHubTutorial2\\hello-git-world\\HelloGitWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Documents\\new repo\\hello-git-world\\HelloGitWorld.csproj": {
+    "C:\\Users\\ADMIN\\Desktop\\Desktop\\cypherJorney\\Phase II\\gitHubTutorial2\\hello-git-world\\HelloGitWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Documents\\new repo\\hello-git-world\\HelloGitWorld.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\Desktop\\cypherJorney\\Phase II\\gitHubTutorial2\\hello-git-world\\HelloGitWorld.csproj",
         "projectName": "HelloGitWorld",
-        "projectPath": "C:\\Users\\Admin\\Documents\\new repo\\hello-git-world\\HelloGitWorld.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Documents\\new repo\\hello-git-world\\obj\\",
+        "projectPath": "C:\\Users\\ADMIN\\Desktop\\Desktop\\cypherJorney\\Phase II\\gitHubTutorial2\\hello-git-world\\HelloGitWorld.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMIN\\Desktop\\Desktop\\cypherJorney\\Phase II\\gitHubTutorial2\\hello-git-world\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
