@@ -1,1 +1,1 @@
-public record Kelly(Guid Id, string Name, int age)
+public record Kelly(Guid Id, string Name, int age, string Gender)
