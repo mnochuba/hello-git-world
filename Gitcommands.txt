@@ -1,0 +1,4 @@
+Every git command starts with the keyword git. To make an empty folder a git project, you have to initialise it first with the git init command
+Note that:1. cd ..: takes you to the previous folder. For example: /OneDrive/Desktop/Assignment. Using cd .. will take you to /OneDrive/Desktop/
+2. cd <filename> takes you directly to the file
+3. mkdir <folder name>: creates a new directory/folder.
