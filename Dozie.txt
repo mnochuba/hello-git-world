@@ -1,4 +1,7 @@
 Practicing the use of github for collaboration
 
+I want to create a pull request without error and inform Murphy and the entire team
 
-Well i decided to try out a conflict here from giddy...lol
+I think I am getting a grasp of this git commands
+If you want to make edits or change branch, make sure that the file or project is not opened anywhere else, it will have the linking error that is confirmed.
+
