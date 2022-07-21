@@ -1,4 +1,9 @@
 I greet you specially!
 My boss!
+<<<<<<< HEAD
+..
+Hello people
+=======
 Hello
 ..
+>>>>>>> 449a19ae5557432abd68c4f96876b1aa9a8969e5

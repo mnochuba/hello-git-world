@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\Clone\hello-git-world\bin\Debug\net6.0\HelloGitWorld.exe
+C:\Users\HP\Documents\Clone\hello-git-world\bin\Debug\net6.0\HelloGitWorld.deps.json
+C:\Users\HP\Documents\Clone\hello-git-world\bin\Debug\net6.0\HelloGitWorld.runtimeconfig.json
+C:\Users\HP\Documents\Clone\hello-git-world\bin\Debug\net6.0\HelloGitWorld.dll
+C:\Users\HP\Documents\Clone\hello-git-world\bin\Debug\net6.0\HelloGitWorld.pdb
+C:\Users\HP\Documents\Clone\hello-git-world\obj\Debug\net6.0\HelloGitWorld.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Clone\hello-git-world\obj\Debug\net6.0\HelloGitWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Clone\hello-git-world\obj\Debug\net6.0\HelloGitWorld.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Clone\hello-git-world\obj\Debug\net6.0\HelloGitWorld.AssemblyInfo.cs
+C:\Users\HP\Documents\Clone\hello-git-world\obj\Debug\net6.0\HelloGitWorld.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Clone\hello-git-world\obj\Debug\net6.0\HelloGitWorld.dll
+C:\Users\HP\Documents\Clone\hello-git-world\obj\Debug\net6.0\refint\HelloGitWorld.dll
+C:\Users\HP\Documents\Clone\hello-git-world\obj\Debug\net6.0\HelloGitWorld.pdb
+C:\Users\HP\Documents\Clone\hello-git-world\obj\Debug\net6.0\HelloGitWorld.genruntimeconfig.cache
+C:\Users\HP\Documents\Clone\hello-git-world\obj\Debug\net6.0\ref\HelloGitWorld.dll
